@@ -1,2 +1,2 @@
 # Dnd-Stat-Generator
-Ali Sezişli ve Türkbey Uyartaş Katkılarıyla...
+
