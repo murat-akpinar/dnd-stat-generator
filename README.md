@@ -20,3 +20,5 @@ Sample;
 ----------------------- </br>
 GENEL TOPLAM : 66
 </b></h3>
+<br>
+<h6>Ali Sezişli ve Türkbey Uyartaş Katkılarıyla...</h6>
